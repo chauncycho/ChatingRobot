@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ChatingRobot:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChatingRobot_war</output-path>
+    <root id="archive" name="ChatingRobot.war">
+      <element id="artifact" artifact-name="ChatingRobot:war exploded" />
+    </root>
+  </artifact>
+</component>
